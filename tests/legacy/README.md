@@ -1,0 +1,1 @@
+These historical scenarios cover the superseded battery-only rounds, consumable shopping and challenge payouts. They are preserved for reference, not the current session-model test command. Run `node test.cjs` from the project root for current electrical/resource/scoring/migration/history/diagnostic coverage.
